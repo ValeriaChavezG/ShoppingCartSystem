@@ -1,0 +1,85 @@
+/* .navbar */
+.logoTaylor{
+    margin-left: 40px;
+}
+.nav-link{
+    margin-left: 100px;
+}
+#NavBarTaylor{
+    margin-right: 20px;
+}
+.carousel-item img {
+    width: 500px;
+    height: 500px;
+    object-fit:contain;
+  }
+  
+  .carousel-item {
+    background-color: rgb(255, 255, 255);
+  }
+
+  /* seccion sobre nosotros */
+#letraPaginaTay {
+    font-size: xx-large;
+    font-family: fantasy;
+}
+.letraColumna {
+    text-align: justify;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: medium;
+}
+/* contacto */
+#contenedorContacto{
+    background-color: rgb(255, 255, 220);
+    height: 20rem;
+}
+#bntEnviar{
+    margin-top: 20px;
+    color: black;
+    border-radius: 4px;
+    text-decoration: none;
+    width: 100%;
+    border: 2px solid  #948718;
+    border-radius: .5rem;
+
+    background: transparent;
+}
+#bntEnviar:hover{
+    background-color: darkgoldenrod;
+    color: white;
+}
+#footerTay{
+    padding: 10px;
+    margin-top: 40px;
+    background-color: #000000;
+}
+#letrafooter{
+    color: white;
+    font-size: smaller;
+}
+
+  /* .columna{
+    width: 100%;
+    height: 50rem;
+    display:inline-flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(243, 243, 243);
+}
+#letraPaginaTay{
+    font-size: xx-large;
+    font-family:fantasy;
+}
+.letraColumna{
+    margin-right: 100px;
+    width: 400px;
+    justify-content: center;
+    text-align: justify;
+    font-family:'Courier New', Courier, monospace;
+    font-size:medium;
+}
+#imagenNosotros{
+    height: 300px;
+    width: 500px;
+}
+   */
